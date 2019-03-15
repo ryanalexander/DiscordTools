@@ -1,5 +1,6 @@
 let channel_id = "";
 let auth = "";
+let delay = 60; /* Default is 1 Minute */
 
 var http = new XMLHttpRequest();
 var int = 0;
@@ -18,7 +19,7 @@ http.onreadystatechange = function() {//Call a function when the state changes.
     }
 }
 http.send(params);
-},60000);
+},delay*1000);
 
 function delMSG (id, channel, auth){
 var url = 'https://discordapp.com/api/v6/channels/'+channel+'/messages/'+id;
