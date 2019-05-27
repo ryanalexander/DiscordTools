@@ -1,6 +1,6 @@
-# Discord XP Grinder
+# Discord Exploits
 
-This script is used to Grind XP in Discord Servers without getting caught.
+Just an archive of random Discord exploits i've found
 
 ## Prerequisites
 
