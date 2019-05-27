@@ -8,7 +8,7 @@ Just an archive of random Discord exploits i've found
 
 ### Installing
 
-While the Discord client is opened hold `CTRL + ALT + L` to open the Discord developer tools
+While the Discord client is opened hold `CTRL + SHIFT + I` to open the Discord developer tools
 
 With this opened Click `Console` (You will be greated with a warning - Remember that you are entering this script at your own risk. Never enter anything into this Console without knowing what it does) paste the content of XP.js
 
