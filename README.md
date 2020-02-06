@@ -1,6 +1,6 @@
-# Discord Exploits
+# Discord Tools
 
-Just an archive of random Discord exploits i've found
+This Archive contains JavaScript snippets that can be used in the Discord Web Application.
 
 ## Prerequisites
 
